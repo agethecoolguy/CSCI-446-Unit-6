@@ -1,0 +1,52 @@
+body {
+	background-color: rgb(245, 245, 245);
+}
+
+#content {
+	position: relative;
+	width: 80%;
+	margin-top: 140px;
+	padding-top: 15px;
+	overflow: auto;
+	
+	background-color: white;
+	border: 1px solid rgb(200, 200, 200);
+	border-radius: 0 0 15px 15px;
+}
+
+@media screen and (min-width: 480px) {
+   #content { 
+      width: 100%;
+   } 
+}
+
+#title {
+	width: 100%;
+	padding: 10px;
+	box-shadow: /* Creates the french flag around the bottom of the navbar */
+		0 0 0 3px rgb(0, 0, 255),
+		0 0 0 6px rgb(255, 255, 255),
+		0 0 0 9px rgb(255, 0, 0);
+	margin-bottom: 10px;
+	
+	background-color: rgba(255, 255, 255, 0.9);
+	text-align: center;
+}
+
+.navbar {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+	margin-top: -1px;
+}
+
+/* standard link in navbar */
+.navbar-dark .navbar-nav .nav-link {
+	
+}
+
+/* active link in navbar */
+.navbar-dark .navbar-nav .nav-link.active {
+	
+}
+
