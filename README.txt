@@ -1,0 +1,9 @@
+RESPONSIVE DESIGN FEATURES:
+
+
+ADDITIONAL BOOTSTRAP4 FEATURES USED:
+navbar
+text-center
+alert
+button
+text-justify

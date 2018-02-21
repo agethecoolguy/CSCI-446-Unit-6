@@ -33,6 +33,10 @@ body {
 	text-align: center;
 }
 
+#butAlert {
+	display: none;
+}
+
 .navbar {
     display: flex;
     justify-content: center;
