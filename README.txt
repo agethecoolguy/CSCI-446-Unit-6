@@ -12,3 +12,9 @@ alert (dismissable)
 fade effect
 container
 various Boostrap CSS classes
+
+TEAM MEMBER EVALUATION
+Kyle DiSandro		15 pts
+Austin Schussler	15 pts
+Adrien Perinet		15 pts
+Robert Hudson		15 pts
